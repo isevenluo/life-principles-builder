@@ -31,7 +31,7 @@
 仓库地址：
 
 ```
-https://github.com/{OWNER}/life-principles-builder
+https://github.com/isevenluo/life-principles-builder
 ```
 
 ### 方式二：直接用，不安装
